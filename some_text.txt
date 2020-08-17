@@ -25,3 +25,6 @@ https://tproger.ru/translations/difference-between-git-and-github/
 
 7. Дока для Idea 
 https://www.jetbrains.com/help/idea/using-git-integration.html
+
+8. Праздник какой-то
+Нам дали ключей для Idea
