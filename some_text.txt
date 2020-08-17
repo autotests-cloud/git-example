@@ -16,6 +16,9 @@ git pull
 5. Показать как все аналогичные команды работают из идеи
 5.1 Показать зеленую (CTRL+K) и синюю (CTRL+T) кнопки для push и pull
 
-6. Хорошие статьи про гит:
+6. Возможно, хорошие статьи про гит:
 https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git
 https://githowto.com/ru
+https://learn.javascript.ru/screencast/git
+https://habr.com/ru/hub/git/
+https://tproger.ru/translations/difference-between-git-and-github/
