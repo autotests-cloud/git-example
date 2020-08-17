@@ -1,1 +1,5 @@
 hello, qa.guru!
+
+git add -A 
+git commit -m "any message"
+git push
