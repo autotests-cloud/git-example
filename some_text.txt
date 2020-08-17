@@ -16,15 +16,20 @@ git pull
 5. Показать как все аналогичные команды работают из идеи
 5.1 Показать зеленую (CTRL+K) и синюю (CTRL+T) кнопки для push и pull
 
-6. Возможно, хорошие статьи про гит:
+6. Создать новую ветку
+git checkout -b some_name
+git checkout -B some_name   (создастся грубо, перезаписав уже имеющуюся some_name, если она есть)
+git checkout some_name      переключиться в ветку
+
+7. Merge?
+git merge qaguru-branch     подгрузить в свою ветку изменения из qaguru-branch
+
+8. Возможно, хорошие статьи про гит:
 https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git
 https://githowto.com/ru
 https://learn.javascript.ru/screencast/git
 https://habr.com/ru/hub/git/
 https://tproger.ru/translations/difference-between-git-and-github/
 
-7. Дока для Idea 
+9. Дока для Idea
 https://www.jetbrains.com/help/idea/using-git-integration.html
-
-8. Праздник какой-то
-Нам дали ключей для Idea
