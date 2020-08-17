@@ -22,3 +22,6 @@ https://githowto.com/ru
 https://learn.javascript.ru/screencast/git
 https://habr.com/ru/hub/git/
 https://tproger.ru/translations/difference-between-git-and-github/
+
+7. Дока для Idea 
+https://www.jetbrains.com/help/idea/using-git-integration.html
