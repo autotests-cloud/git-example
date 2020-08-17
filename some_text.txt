@@ -10,3 +10,4 @@ git add -A
 git commit -m "any message"
 git push
 
+4. Показать как все работает из идеи
